@@ -1,13 +1,6 @@
-# Pokémon AR Throw
+# Pokémon go AR 
 
 A simple AR application built with RealityKit and SwiftUI that lets you flick a Pokéball at a 3D Pokémon model. The ball follows a parabolic trajectory, lands on a detected horizontal plane, and the Pokémon vanishes upon capture.
-
-## Features
-- Flick gesture to throw a Pokéball in AR
-- Parabolic projectile motion
-- Physics-driven roll on impact
-- Smooth vanish animation for the Pokémon
-- Reset button to retry
 
 ## Tools & Frameworks
 - Xcode 14+ (macOS)
